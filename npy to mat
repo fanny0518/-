@@ -5,8 +5,7 @@ import scipy.io
 import numpy as np
 import os
 
-FOLDER = 'input'
-
+FOLDER = 'C:/Users/fannuoyuan/Desktop/AAPM issue/aapm-ct-challenge-main/aapm-ct/raw_data/training_data/Phantom_Calcification.npy'
 
 def npy_to_matlab(name):
     
